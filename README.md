@@ -1,7 +1,10 @@
+[![make.fun · best-cooking-game-20261125-0137](https://make.fun/badge/best-cooking-game-20261125-0137.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+[![rank](https://make.fun/badge/best-cooking-game-20261125-0137/raz-indri/best-cooking-game-20261125-0137/rank.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+[![reward](https://make.fun/badge/best-cooking-game-20261125-0137/raz-indri/best-cooking-game-20261125-0137/reward.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+
 # Ember & Thyme — Bistro Rush
 
-A complete, original cooking game for the make.fun "Make the best cooking game"
-bounty. Run the hottest little bistro in town: grill patties, chop veg, fry
+A complete, original cooking game for the [make.fun "Make the best cooking game" bounty](https://make.fun/bounty/best-cooking-game-20261125-0137). Run the hottest little bistro in town: grill patties, chop veg, fry
 golden fries, stack burgers to match the order board, and serve every ticket
 before patience runs out. One 3-minute shift, combos pay more, the rush never
 lets up.
